@@ -1,0 +1,371 @@
+{
+  "CC0-1.0": {
+    "publicDomain": true
+  },
+  "PDDL-1.0": {
+    "publicDomain": true
+  },
+  "SAX-PD": {
+    "publicDomain": true
+  },
+  "Unlicense": {
+    "publicDomain": true
+  },
+
+  "0BSD": {
+    "permissive": true
+  },
+  "AFL-1.1": {
+    "permissive": true
+  },
+  "AFL-1.2": {
+    "permissive": true
+  },
+  "AFL-2.0": {
+    "permissive": true
+  },
+  "AFL-2.1": {
+    "permissive": true
+  },
+  "AFL-3.0": {
+    "permissive": true
+  },
+  "Apache-1.0": {
+    "permissive": true
+  },
+  "Apache-1.1": {
+    "permissive": true
+  },
+  "Apache-2.0": {
+    "permissive": true
+  },
+  "Artistic-2.0": {
+    "permissive": true
+  },
+  "BSD-2-Clause": {
+    "permissive": true
+  },
+  "BSD-3-Clause": {
+    "permissive": true
+  },
+  "BSD-3-Clause-Attribution": {
+    "permissive": true
+  },
+  "BSD-3-Clause-Clear": {
+    "permissive": true
+  },
+  "BSD-2-Clause-FreeBSD": {
+    "permissive": true
+  },
+  "BSD-3-Clause-LBNL": {
+    "permissive": true
+  },
+  "BSD-2-Clause-NetBSD": {
+    "permissive": true
+  },
+  "BSD-3-Clause-No-Nuclear-License": {
+    "permissive": true
+  },
+  "BSD-3-Clause-No-Nuclear-License-2014": {
+    "permissive": true
+  },
+  "BSD-3-Clause-No-Nuclear-Warranty": {
+    "permissive": true
+  },
+  "BSD-4-Clause": {
+    "permissive": true
+  },
+  "BSD-4-Clause-UC": {
+    "permissive": true
+  },
+  "CC-BY-3.0": {
+    "permissive": true
+  },
+  "CC-BY-4.0": {
+    "permissive": true
+  },
+  "ECL-2.0": {
+    "permissive": true
+  },
+  "ISC": {
+    "permissive": true
+  },
+  "MIT": {
+    "permissive": true
+  },
+  "X11": {
+    "permissive": true
+  },
+  "WTFPL": {
+    "permissive": true
+  },
+  "PHP-3.0": {
+    "permissive": true
+  },
+  "PHP-3.01": {
+    "permissive": true
+  },
+  "Python-2.0": {
+    "permissive": true
+  },
+  "Zlib": {
+    "permissive": true
+  },
+  "zlib-acknowledgement": {
+    "permissive": true
+  },
+  "W3C-20150513": {
+    "permissive": true
+  },
+  "W3C-19980720": {
+    "permissive": true
+  },
+  "W3C": {
+    "permissive": true
+  },
+  "Naumen": {
+    "permissive": true
+  },
+  "MIT-advertising": {
+    "permissive": true
+  },
+  "MIT-enna": {
+    "permissive": true
+  },
+  "MIT-CMU": {
+    "permissive": true
+  },
+  "Beerware": {
+    "permissive": true
+  },
+  "CNRI-Jython": {
+    "permissive": true
+  },
+  "CNRI-Python": {
+    "permissive": true
+  },
+  "CNRI-Python-GPL-Compatible": {
+    "permissive": true
+  },
+  "MIT-feh": {
+    "permissive": true
+  },
+  "Ruby": {
+    "permissive": true
+  },
+  "Sendmail": {
+    "permissive": true
+  },
+  "iMatix": {
+    "permissive": true
+  },
+  "xinetd": {
+    "permissive": true
+  },
+  "ZPL-1.1": {
+    "permissive": true
+  },
+  "ZPL-2.0": {
+    "permissive": true
+  },
+  "ZPL-2.1": {
+    "permissive": true
+  },
+  "TCL": {
+    "permissive": true
+  },
+
+  "LGPL-2.0": {
+    "weaklyProtective": true
+  },
+  "LGPL-2.1": {
+    "weaklyProtective": true
+  },
+  "LGPL-2.1+": {
+    "weaklyProtective": true
+  },
+  "LGPL-3.0": {
+    "weaklyProtective": true
+  },
+  "LGPL-3.0+": {
+    "weaklyProtective": true
+  },
+  "Artistic-1.0": {
+    "weaklyProtective": true
+  },
+  "Artistic-1.0-Perl": {
+    "weaklyProtective": true
+  },
+  "Artistic-1.0-cl8": {
+    "weaklyProtective": true
+  },
+  "Artistic-2.0": {
+    "weaklyProtective": true
+  },
+  "EPL-1.0": {
+    "weaklyProtective": true
+  },
+  "NPL-1.0": {
+    "weaklyProtective": true
+  },
+  "NPL-1.1": {
+    "weaklyProtective": true
+  },
+  "QPL-1.0": {
+    "weaklyProtective": true
+  },
+  "MPL-2.0": {
+    "weaklyProtective": true
+  },
+  "MPL-1.0": {
+    "weaklyProtective": true
+  },
+  "MPL-1.1": {
+    "weaklyProtective": true
+  },
+
+  "EUPL-1.0": {
+    "protective": true
+  },
+  "EUPL-1.1": {
+    "protective": true
+  },
+  "CECILL-1.0": {
+    "protective": true
+  },
+  "CECILL-1.1": {
+    "protective": true
+  },
+  "CECILL-2.0": {
+    "protective": true
+  },
+  "CECILL-2.1": {
+    "protective": true
+  },
+  "CECILL-B": {
+    "protective": true
+  },
+  "GPL-1.0": {
+    "protective": true
+  },
+  "GPL-2.0": {
+    "protective": true
+  },
+  "GPL-3.0": {
+    "protective": true
+  },
+  "CC-BY-SA-1.0": {
+    "protective": true
+  },
+  "CC-BY-SA-2.0": {
+    "protective": true
+  },
+  "CC-BY-SA-3.0": {
+    "protective": true
+  },
+  "CC-BY-SA-4.0": {
+    "protective": true
+  },
+  "IPL-1.0": {
+    "protective": true
+  },
+  "AGPL-1.0": {
+    "networkProtective": true
+  },
+  "AGPL-3.0": {
+    "networkProtective": true
+  },
+  "RPL-1.1": {
+    "networkProtective": true
+  },
+  "RPL-1.5": {
+    "networkProtective": true
+  },
+  "Parity-6.0.0": {
+    "networkProtective": true
+  },
+  "Parity-7.0.0": {
+    "networkProtective": true
+  },
+
+  "CC-BY-NC-1.0": {
+    "useProtective": true
+  },
+  "CC-BY-NC-2.0": {
+    "useProtective": true
+  },
+  "CC-BY-NC-2.5": {
+    "useProtective": true
+  },
+  "CC-BY-NC-3.0": {
+    "useProtective": true
+  },
+  "CC-BY-NC-4.0": {
+    "useProtective": true
+  },
+  "CC-BY-NC-ND-1.0": {
+    "useProtective": true,
+    "modifyProtective": true
+  },
+  "CC-BY-NC-ND-2.0": {
+    "useProtective": true,
+    "modifyProtective": true
+  },
+  "CC-BY-NC-ND-2.5": {
+    "useProtective": true,
+    "modifyProtective": true
+  },
+  "CC-BY-NC-ND-3.0": {
+    "useProtective": true,
+    "modifyProtective": true
+  },
+  "CC-BY-NC-ND-3.0-IGO": {
+    "useProtective": true,
+    "modifyProtective": true
+  },
+  "CC-BY-NC-ND-4.0": {
+    "useProtective": true,
+    "modifyProtective": true
+  },
+  "CC-BY-NC-SA-1.0": {
+    "protective": true,
+    "useProtective": true
+  },
+  "CC-BY-NC-SA-2.0": {
+    "protective": true,
+    "useProtective": true
+  },
+  "CC-BY-NC-SA-2.5": {
+    "protective": true,
+    "useProtective": true
+  },
+  "CC-BY-NC-SA-3.0": {
+    "protective": true,
+    "useProtective": true
+  },
+  "CC-BY-NC-SA-4.0": {
+    "protective": true,
+    "useProtective": true
+  },
+  "CC-BY-ND-1.0": {
+    "modifyProtective": true
+  },
+  "CC-BY-ND-2.0": {
+    "modifyProtective": true
+  },
+  "CC-BY-ND-2.5": {
+    "modifyProtective": true
+  },
+  "CC-BY-ND-3.0": {
+    "modifyProtective": true
+  },
+  "CC-BY-ND-4.0": {
+    "modifyProtective": true
+  },
+  "NCGL-UK-2.0": {
+    "useProtective": true
+  },
+  "PolyForm-Noncommercial-1.0.0": {
+    "useProtective": true
+  }
+}

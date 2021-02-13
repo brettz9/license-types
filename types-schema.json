@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "patternProperties": {
+    "title": "License type",
+    ".*": {
+      "type": "object",
+      "properties": {
+        "color": {
+          "description": "Suggested color for the license type",
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "text": {
+          "description": "English human-readable text for the license type",
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "publicDomain": {
+    "color": ["darkgreen"],
+    "text": "Public\ndomain"
+  },
+  "permissive": {
+    "color": ["green"],
+    "text": "Permissive"
+  },
+  "weaklyProtective": {
+    "color": ["CCCC00"],
+    "text": "Weakly\nprotective"
+  },
+  "protective": {
+    "color": ["pink"],
+    "text": "Protective"
+  },
+  "networkProtective": {
+    "color": ["FF69B4"],
+    "text": "Network\nprotective"
+  },
+  "useProtective": {
+    "color": ["red"],
+    "text": "Use-or-modify\nprotective"
+  },
+  "modifyProtective": {
+    "color": ["red"],
+    "text": "Use-or-modify\nprotective"
+  },
+  "unlicensed": {
+    "color": ["black"],
+    "text": "Unlicensed"
+  },
+  "custom": {
+    "color": ["gray"],
+    "text": "Custom"
+  },
+  "uncategorized": {
+    "color": ["darkgray"],
+    "text": "Uncategorized"
+  },
+  "missing": {
+    "color": ["lightgray"],
+    "text": "Missing"
+  }
+}

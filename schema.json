@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "patternProperties": {
+    "title": "license",
+    "description": "SPDX identifiers",
+    ".*": {
+      "type": "object",
+      "properties": {
+        "modifyProtective": {
+          "type": "boolean"
+        },
+        "networkProtective": {
+          "type": "boolean"
+        },
+        "permissive": {
+          "type": "boolean"
+        },
+        "protective": {
+          "type": "boolean"
+        },
+        "publicDomain": {
+          "type": "boolean"
+        },
+        "useProtective": {
+          "type": "boolean"
+        },
+        "weaklyProtective": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}
