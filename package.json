@@ -15,9 +15,11 @@
     "node": ">=10"
   },
   "main": "index.json",
-  "scripts": {
-  },
-  "keywords": ["license", "licenses"],
+  "scripts": {},
+  "keywords": [
+    "license",
+    "licenses"
+  ],
   "dependencies": {},
   "devDependencies": {}
 }

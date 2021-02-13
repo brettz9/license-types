@@ -7,7 +7,7 @@ adapted from <https://github.com/delfrrr/npm-consider>.:
 - `publicDomain` - Licenses effectively releasing into the public domain
 - `permissive` - Highly permissive, like MIT
 - `weaklyProtective` - Some protective aspects, like LGPL or MPL
-- `protective`- Protective, like GPL
+- `protective` - Protective, like GPL
 - `networkProtective` - Protective, including over network use, like AGPL
 - `useProtective` - Has restrictions on usage (e.g., non-commercial), like
     Creative Commons Non-Commercial licenses
