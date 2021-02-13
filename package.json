@@ -1,7 +1,7 @@
 {
   "name": "license-types",
   "version": "1.0.0",
-  "description": "",
+  "description": "A rough classification of licenses such as by aspects of permissiveness",
   "author": {
     "name": "Brett Zamir",
     "url": "http://brett-zamir.me/"
@@ -17,7 +17,7 @@
   "main": "index.json",
   "scripts": {
   },
-  "keywords": [],
+  "keywords": ["license", "licenses"],
   "dependencies": {},
   "devDependencies": {}
 }
