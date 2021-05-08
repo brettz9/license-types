@@ -21,11 +21,11 @@
   },
   "useProtective": {
     "color": ["red"],
-    "text": "Use-or-modify\nprotective"
+    "text": "Use\nprotective"
   },
   "modifyProtective": {
     "color": ["red"],
-    "text": "Use-or-modify\nprotective"
+    "text": "Modify\nprotective"
   },
   "unlicensed": {
     "color": ["black"],
