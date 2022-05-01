@@ -1,5 +1,9 @@
 # CHANGES to `license-types`
 
+## 3.0.1
+
+- fix: proper `main`
+
 ## 3.0.0
 
 - BREAKING refactor: `getLicenseTypes` as named export
