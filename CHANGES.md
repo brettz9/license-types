@@ -1,5 +1,12 @@
 # CHANGES to `license-types`
 
+## 2.0.0
+
+- BREAKING refactor: Switch to JavaScript export by default for better
+  compatibility with Node ESM without full JSON support.
+- BREAKING chore: Requires Node 14
+- chore: adds eslint
+
 ## 1.0.2
 
 - Fix: Text on "Use protective" and "Modify protective" needed differentiation

@@ -1,6 +1,7 @@
 {
   "name": "license-types",
-  "version": "1.0.2",
+  "type": "module",
+  "version": "2.0.0",
   "description": "A rough classification of licenses such as by aspects of permissiveness",
   "author": {
     "name": "Brett Zamir",
@@ -12,14 +13,17 @@
   "repository": "https://github.com/brettz9/brettz9/license-types",
   "license": "MIT",
   "engines": {
-    "node": ">=10"
+    "node": ">=14"
   },
   "main": "index.json",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint --ext=js,cjs ."
+  },
   "keywords": [
     "license",
     "licenses"
   ],
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
 }

@@ -39,6 +39,19 @@ None of this is legal advice and none of this should be considered as a
 warranty, as final, or as authoritatively accurate. Pull requests are welcome
 to add new licenses and their metadata (providing a link).
 
+## install
+
+```sh
+npm i license-types
+```
+
+## Usage
+
+```js
+import getLicenseTypes from 'license-types';
+const licenseTypes = await getLicenseTypes();
+```
+
 ## Authors and license
 
 [Brett Zamir](http://brett-zamir.me/) and [contributors](https://github.com/brettz9/brettz9/license-types/graphs/contributors).
