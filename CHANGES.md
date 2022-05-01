@@ -1,5 +1,11 @@
 # CHANGES to `license-types`
 
+## 3.0.0
+
+- BREAKING refactor: `getLicenseTypes` as named export
+- feat: export `getLicenseTypeInfo`
+- chore: drop `package-lock.json`
+
 ## 2.0.0
 
 - BREAKING refactor: Switch to JavaScript export by default for better
