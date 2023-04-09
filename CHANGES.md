@@ -1,5 +1,10 @@
 # CHANGES to `license-types`
 
+## 3.1.0
+
+- feat: Add `BlueOak-1.0.0` (as `permissive`)
+- fix: remove dupe property of `Artistic-2.0` (ensuring is `permissive`)
+
 ## 3.0.1
 
 - fix: proper `main`
