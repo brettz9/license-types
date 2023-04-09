@@ -42,6 +42,9 @@
   "Artistic-2.0": {
     "permissive": true
   },
+  "BlueOak-1.0.0": {
+    "permissive": true
+  },
   "BSD-2-Clause": {
     "permissive": true
   },
