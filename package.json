@@ -17,6 +17,7 @@
   },
   "main": "index.js",
   "scripts": {
+    "check-licenses": "node check-licenses.js",
     "lint": "eslint --ext=js,cjs ."
   },
   "keywords": [
@@ -24,6 +25,7 @@
     "licenses"
   ],
   "devDependencies": {
-    "eslint": "^8.14.0"
+    "eslint": "^8.14.0",
+    "spdx-license-list": "^6.8.0"
   }
 }
