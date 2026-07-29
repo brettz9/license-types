@@ -1,5 +1,10 @@
 # CHANGES to `license-types`
 
+## 3.2.0
+
+- feat: add MIT-0 as permissive
+- chore: update devDeps and lint
+
 ## 3.1.0
 
 - feat: Add `BlueOak-1.0.0` (as `permissive`)
