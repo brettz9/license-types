@@ -1,5 +1,9 @@
 # CHANGES to `license-types`
 
+## 3.3.0
+
+- feat: add OFL-1.1 as weakly protective
+
 ## 3.2.0
 
 - feat: add MIT-0 as permissive

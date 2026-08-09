@@ -196,6 +196,9 @@
   "LGPL-3.0+": {
     "weaklyProtective": true
   },
+  "OFL-1.1": {
+    "weaklyProtective": true
+  },
   "Artistic-1.0": {
     "weaklyProtective": true
   },
