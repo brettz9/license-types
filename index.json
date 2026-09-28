@@ -184,7 +184,22 @@
   "LGPL-2.0": {
     "weaklyProtective": true
   },
+  "LGPL-2.0-only": {
+    "weaklyProtective": true
+  },
+  "LGPL-2.0+": {
+    "weaklyProtective": true
+  },
+  "LGPL-2.0-or-later": {
+    "weaklyProtective": true
+  },
   "LGPL-2.1": {
+    "weaklyProtective": true
+  },
+  "LGPL-2.1-only": {
+    "weaklyProtective": true
+  },
+  "LGPL-2.1-or-later": {
     "weaklyProtective": true
   },
   "LGPL-2.1+": {
@@ -193,7 +208,13 @@
   "LGPL-3.0": {
     "weaklyProtective": true
   },
+  "LGPL-3.0-only": {
+    "weaklyProtective": true
+  },
   "LGPL-3.0+": {
+    "weaklyProtective": true
+  },
+  "LGPL-3.0-or-later": {
     "weaklyProtective": true
   },
   "OFL-1.1": {

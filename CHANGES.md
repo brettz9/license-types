@@ -1,5 +1,9 @@
 # CHANGES to `license-types`
 
+## 3.4.0
+
+- feat: add missing LGPL variants
+
 ## 3.3.0
 
 - feat: add OFL-1.1 as weakly protective
