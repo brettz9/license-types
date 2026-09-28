@@ -275,10 +275,37 @@
   "GPL-1.0": {
     "protective": true
   },
+  "GPL-1.0-only": {
+    "protective": true
+  },
+  "GPL-1.0+": {
+    "protective": true
+  },
+  "GPL-1.0-or-later": {
+    "protective": true
+  },
   "GPL-2.0": {
     "protective": true
   },
+  "GPL-2.0-only": {
+    "protective": true
+  },
+  "GPL-2.0-or-later": {
+    "protective": true
+  },
+  "GPL-2.0+": {
+    "protective": true
+  },
   "GPL-3.0": {
+    "protective": true
+  },
+  "GPL-3.0-only": {
+    "protective": true
+  },
+  "GPL-3.0+": {
+    "protective": true
+  },
+  "GPL-3.0-or-later": {
     "protective": true
   },
   "CC-BY-SA-1.0": {

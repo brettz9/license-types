@@ -2,7 +2,7 @@
 
 ## 3.4.0
 
-- feat: add missing LGPL variants
+- feat: add misc. missing LGPL and GPL variants
 
 ## 3.3.0
 
