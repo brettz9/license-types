@@ -48,8 +48,9 @@ npm i license-types
 ## Usage
 
 ```js
-import getLicenseTypes from 'license-types';
-const licenseTypes = await getLicenseTypes();
+import {getLicenseTypes, getLicenseTypeInfo} from 'license-types';
+const licenseTypes = getLicenseTypes();
+const getLicenseTypeInfo = getLicenseTypeInfo();
 ```
 
 ## Authors and license

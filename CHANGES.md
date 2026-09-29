@@ -1,5 +1,11 @@
 # CHANGES to `license-types`
 
+## 4.0.0
+
+- Breaking: Requires Node >=22.16.0
+- feat: TypeScript
+- feat: browser-compatible
+
 ## 3.4.0
 
 - feat: add misc. missing LGPL and GPL variants

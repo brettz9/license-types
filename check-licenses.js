@@ -1,8 +1,6 @@
-import {readFile} from 'fs/promises';
-
 import spdxLicenseList from 'spdx-license-list';
 
-const existingJSON = JSON.parse(await readFile('./index.json'));
+import existingJSON from './index.json' with {type: 'json'};
 
 const spdxLicenses = Object.keys(spdxLicenseList);
 

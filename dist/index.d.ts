@@ -1,6 +1,13 @@
-import licenseTypes from './index.json' with {type: 'json'};
-import licenseTypeInfo from './types.json' with {type: 'json'};
-
+export type LicenseInfo = {
+    modifyProtective?: boolean;
+    networkProtective?: boolean;
+    permissive?: boolean;
+    protective?: boolean;
+    publicDomain?: boolean;
+    useProtective?: boolean;
+    weaklyProtective?: boolean;
+};
+export type LicenseTypes = Record<string, LicenseInfo>;
 /**
  * @typedef {object} LicenseInfo
  * @property {boolean} [modifyProtective]
@@ -15,29 +22,32 @@ import licenseTypeInfo from './types.json' with {type: 'json'};
  * License SPDX identifiers mapped to info
  * @typedef {Record<string, LicenseInfo>} LicenseTypes
  */
-
 /**
  * @returns {LicenseTypes}
  */
-function getLicenseTypes () {
-  return licenseTypes;
-}
-
+declare function getLicenseTypes(): LicenseTypes;
+export type LicenseTypeInfo = {
+    /**
+     * The color or color codes
+     */
+    color: string[];
+    /**
+     * The human readable text
+     */
+    text: string;
+};
+export type LicenseTypeInfoMap = Object<string, LicenseTypeInfo>;
 /**
  * @typedef {object} LicenseTypeInfo
  * @property {string[]} color The color or color codes
  * @property {string} text The human readable text
  */
-
 /**
  * @typedef {Object<string, LicenseTypeInfo>} LicenseTypeInfoMap
  */
-
 /**
  * @returns {LicenseTypeInfoMap}
  */
-function getLicenseTypeInfo () {
-  return licenseTypeInfo;
-}
-
-export {getLicenseTypes, getLicenseTypeInfo};
+declare function getLicenseTypeInfo(): LicenseTypeInfoMap;
+export { getLicenseTypes, getLicenseTypeInfo };
+//# sourceMappingURL=index.d.ts.map

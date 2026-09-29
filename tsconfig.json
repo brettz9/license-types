@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "moduleResolution": "nodenext",
+    "module": "NodeNext",
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true,
+    "noEmit": true,
+    "types": ["node"]
+  },
+  "include": [
+    "*.js"
+  ],
+  "exclude": ["node_modules"]
+}

@@ -10,7 +10,7 @@ export default [
       },
       parserOptions: {
         sourceType: 'module',
-        ecmaVersion: 2024
+        ecmaVersion: 'latest'
       }
     }
   }
