@@ -36,14 +36,14 @@ export type LicenseTypeInfo = {
      */
     text: string;
 };
-export type LicenseTypeInfoMap = Object<string, LicenseTypeInfo>;
+export type LicenseTypeInfoMap = Record<string, LicenseTypeInfo>;
 /**
  * @typedef {object} LicenseTypeInfo
  * @property {string[]} color The color or color codes
  * @property {string} text The human readable text
  */
 /**
- * @typedef {Object<string, LicenseTypeInfo>} LicenseTypeInfoMap
+ * @typedef {Record<string, LicenseTypeInfo>} LicenseTypeInfoMap
  */
 /**
  * @returns {LicenseTypeInfoMap}

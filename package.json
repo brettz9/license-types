@@ -1,7 +1,7 @@
 {
   "name": "license-types",
   "type": "module",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "A rough classification of licenses such as by aspects of permissiveness",
   "author": {
     "name": "Brett Zamir",

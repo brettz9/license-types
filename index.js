@@ -30,7 +30,7 @@ function getLicenseTypes () {
  */
 
 /**
- * @typedef {Object<string, LicenseTypeInfo>} LicenseTypeInfoMap
+ * @typedef {Record<string, LicenseTypeInfo>} LicenseTypeInfoMap
  */
 
 /**

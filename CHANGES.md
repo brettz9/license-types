@@ -1,5 +1,9 @@
 # CHANGES to `license-types`
 
+## 4.0.1
+
+- fix(types): Object -> Record
+
 ## 4.0.0
 
 - Breaking: Requires Node >=22.16.0
